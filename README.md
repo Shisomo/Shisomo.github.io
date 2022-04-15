@@ -1,2 +1,0 @@
-# shisomo.github.io
-blog
